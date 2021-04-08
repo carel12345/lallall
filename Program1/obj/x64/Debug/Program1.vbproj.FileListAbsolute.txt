@@ -1,0 +1,14 @@
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\bin\x64\Debug\Program1.exe
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\bin\x64\Debug\Program1.pdb
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.Resources.resources
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.vbproj.GenerateResource.Cache
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.exe
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.pdb
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.home.resources
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.Formutama.resources
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.loginadmin.resources
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.loginpetugas.resources
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.loginsiswa.resources
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.message.resources
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.crudsiswa.resources
+c:\users\husky\documents\visual studio 2010\Projects\Program1\Program1\obj\x64\Debug\Program1.crudpetugas.resources
